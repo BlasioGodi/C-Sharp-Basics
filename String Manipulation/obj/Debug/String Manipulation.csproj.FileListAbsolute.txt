@@ -1,0 +1,7 @@
+D:\Git\C-Sharp-Basics\String Manipulation\bin\Debug\String Manipulation.exe.config
+D:\Git\C-Sharp-Basics\String Manipulation\bin\Debug\String Manipulation.exe
+D:\Git\C-Sharp-Basics\String Manipulation\bin\Debug\String Manipulation.pdb
+D:\Git\C-Sharp-Basics\String Manipulation\obj\Debug\String Manipulation.csproj.AssemblyReference.cache
+D:\Git\C-Sharp-Basics\String Manipulation\obj\Debug\String Manipulation.csproj.CoreCompileInputs.cache
+D:\Git\C-Sharp-Basics\String Manipulation\obj\Debug\String Manipulation.exe
+D:\Git\C-Sharp-Basics\String Manipulation\obj\Debug\String Manipulation.pdb
