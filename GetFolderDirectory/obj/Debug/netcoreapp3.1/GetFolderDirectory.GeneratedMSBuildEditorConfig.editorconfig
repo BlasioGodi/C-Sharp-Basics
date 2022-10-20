@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GetFolderDirectory
+build_property.ProjectDir = D:\Git\C-Sharp-Basics\GetFolderDirectory\

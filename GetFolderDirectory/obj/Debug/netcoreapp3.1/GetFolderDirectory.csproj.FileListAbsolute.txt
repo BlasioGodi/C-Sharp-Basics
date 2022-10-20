@@ -1,0 +1,14 @@
+D:\Git\C-Sharp-Basics\GetFolderDirectory\bin\Debug\netcoreapp3.1\GetFolderDirectory.exe
+D:\Git\C-Sharp-Basics\GetFolderDirectory\bin\Debug\netcoreapp3.1\GetFolderDirectory.deps.json
+D:\Git\C-Sharp-Basics\GetFolderDirectory\bin\Debug\netcoreapp3.1\GetFolderDirectory.runtimeconfig.json
+D:\Git\C-Sharp-Basics\GetFolderDirectory\bin\Debug\netcoreapp3.1\GetFolderDirectory.runtimeconfig.dev.json
+D:\Git\C-Sharp-Basics\GetFolderDirectory\bin\Debug\netcoreapp3.1\GetFolderDirectory.dll
+D:\Git\C-Sharp-Basics\GetFolderDirectory\bin\Debug\netcoreapp3.1\GetFolderDirectory.pdb
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.csproj.AssemblyReference.cache
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.AssemblyInfoInputs.cache
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.AssemblyInfo.cs
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.csproj.CoreCompileInputs.cache
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.dll
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.pdb
+D:\Git\C-Sharp-Basics\GetFolderDirectory\obj\Debug\netcoreapp3.1\GetFolderDirectory.genruntimeconfig.cache
