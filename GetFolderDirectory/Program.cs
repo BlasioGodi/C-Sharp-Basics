@@ -7,7 +7,7 @@ namespace FolderDir
         public static void Main()
         {
             Console.WriteLine("The folder directory is as below: ");
-            Console.WriteLine(Environment.GetFolderPath(Environment.SpecialFolder.CommonApplicationData));
+            Console.WriteLine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Autodesk\\Revit\\Addins");
 
         }
     }
