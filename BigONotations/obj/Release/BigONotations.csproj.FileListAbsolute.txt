@@ -4,3 +4,4 @@ D:\Git\C-Sharp-Basics\BigONotations\bin\Release\BigONotations.pdb
 D:\Git\C-Sharp-Basics\BigONotations\obj\Release\BigONotations.csproj.CoreCompileInputs.cache
 D:\Git\C-Sharp-Basics\BigONotations\obj\Release\BigONotations.exe
 D:\Git\C-Sharp-Basics\BigONotations\obj\Release\BigONotations.pdb
+D:\Git\C-Sharp-Basics\BigONotations\obj\Release\BigONotations.csproj.AssemblyReference.cache
