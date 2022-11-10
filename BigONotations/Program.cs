@@ -65,31 +65,95 @@ namespace TheBigONotations
             startTime = DateTime.Now;
             int start = startTime.Millisecond;
 
-            for (int i = arraySize-1; i > 1; i++)
-            {
-                for (int j = 0; j < i; j++)
-                {
-                    if (theArray[j] > theArray[j + 1])
-                    {
-                        var temp = theArray[j];
-                        theArray[j] = theArray[j + 1];
-                        theArray[j + 1] = temp;
-                    }
-                }
-            }
+            //for (int i = arraySize-1; i > 1; i++)
+            //{
+            //    for (int j = 0; j < i; j++)
+            //    {
+            //        if (theArray[j] > theArray[j + 1])
+            //        {
+            //            //var temp = theArray[j];
+            //            //theArray[j] = theArray[j + 1];
+            //            //theArray[j + 1] = temp;
+            //        }
+            //    }
+            //}
 
             endTime = DateTime.Now;
             int end = endTime.Millisecond;
             Console.WriteLine("Bubble Sort took " + (end - start));
         }
-        ///<order>O(n)</order>
-        public void BinarySearch()
+        ///<order>O(log n)</order>
+        public void BinarySearch(int value)
         {
+            startTime = DateTime.Now;
+            int start = startTime.Millisecond;
 
+            int lowIndex = 0;
+            int highIndex = arraySize - 1;
+
+            int timesThrough = 0;
+
+            while (lowIndex <= highIndex)
+            {
+                int middleIndex = (highIndex + lowIndex) / 2;
+
+                if (theArray[middleIndex] < value)
+                    lowIndex = middleIndex + 1;
+                else if (theArray[middleIndex] > value)
+                    highIndex = middleIndex - 1;
+                else
+                {
+                    Console.WriteLine("Found match in index " + middleIndex);
+                    lowIndex = highIndex + 1;
+                }
+                timesThrough++;
+            }
+
+            endTime = DateTime.Now;
+            int end = endTime.Millisecond;
+            Console.WriteLine("Binary Search took " + (end - start));
+            Console.WriteLine("TimesThrough " + timesThrough);
         }
-        ///<order>O(n)</order>
+        ///<order>O(n log n)</order>
+        public void QuickSort(int left, int right)
+        {
+            if (right - left <= 0)
+                return;
+            else
+            {
+                int pivot = theArray[right];
+                int pivotLocation = PartitionArray(left, right, pivot);
+                
+                QuickSort(left, pivotLocation - 1);
+                QuickSort(pivotLocation + 1, right);
+            }
+        }
 
-        ///<order>O(n)</order>
+        public int PartitionArray(int left, int right, int pivot)
+        {
+            int leftPointer = left - 1;
+            int rightPointer = right;
+
+            while (true)
+            {
+                while (theArray[++leftPointer] < pivot)
+                    ;
+                while (rightPointer > 0 && theArray[--rightPointer] > pivot)
+                    ;
+
+                if (leftPointer >= rightPointer)
+                {
+                    break;
+                }
+                else
+                {
+                    swapValues(leftPointer, rightPointer);
+
+                }
+            }
+            swapValues(leftPointer, right);
+            return leftPointer;
+        }
         public static void Main()
         {
 
@@ -115,6 +179,10 @@ namespace TheBigONotations
             algoTest2.BubbleSort();
             algoTest3.BubbleSort();
             algoTest4.BubbleSort();
+
+            algoTest2.BinarySearch(20);
+            algoTest3.BinarySearch(20);
+            algoTest4.BinarySearch(20);
 
             if (System.Diagnostics.Debugger.IsAttached) Console.Read();
 
