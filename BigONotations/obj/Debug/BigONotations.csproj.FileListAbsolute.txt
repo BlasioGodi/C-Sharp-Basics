@@ -1,0 +1,7 @@
+D:\Git\C-Sharp-Basics\BigONotations\bin\Debug\BigONotations.exe.config
+D:\Git\C-Sharp-Basics\BigONotations\bin\Debug\BigONotations.exe
+D:\Git\C-Sharp-Basics\BigONotations\bin\Debug\BigONotations.pdb
+D:\Git\C-Sharp-Basics\BigONotations\obj\Debug\BigONotations.csproj.AssemblyReference.cache
+D:\Git\C-Sharp-Basics\BigONotations\obj\Debug\BigONotations.csproj.CoreCompileInputs.cache
+D:\Git\C-Sharp-Basics\BigONotations\obj\Debug\BigONotations.exe
+D:\Git\C-Sharp-Basics\BigONotations\obj\Debug\BigONotations.pdb
