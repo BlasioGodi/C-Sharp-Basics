@@ -1,0 +1,15 @@
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\bin\Debug\net6.0\SocketBasedComm.exe
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\bin\Debug\net6.0\SocketBasedComm.deps.json
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\bin\Debug\net6.0\SocketBasedComm.runtimeconfig.json
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\bin\Debug\net6.0\SocketBasedComm.dll
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\bin\Debug\net6.0\SocketBasedComm.pdb
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.csproj.AssemblyReference.cache
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.AssemblyInfoInputs.cache
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.AssemblyInfo.cs
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.csproj.CoreCompileInputs.cache
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.dll
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\refint\SocketBasedComm.dll
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.pdb
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\SocketBasedComm.genruntimeconfig.cache
+D:\Git\C-Sharp-Basics\SocketBasedComm\SocketBasedComm\obj\Debug\net6.0\ref\SocketBasedComm.dll
